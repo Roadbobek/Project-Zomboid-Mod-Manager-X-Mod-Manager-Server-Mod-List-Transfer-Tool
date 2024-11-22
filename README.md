@@ -3,7 +3,7 @@
 
 ***Tool for Project Zomboid mod management.***  
 Allows you to use Mod Manager mod lists in Mod Manager: Server, and Mod Manager: Server mod lists in Mod Manager.  
-A simple tool to transfer a mod list between singleplayer to multiplayer. ***Version 1.2***
+A simple tool to transfer a mod list between singleplayer to multiplayer. ***Version 1.3***
 
 ![Logo](https://i.imgur.com/kip7xI1.png)
 ## Features
@@ -16,16 +16,6 @@ A simple tool to transfer a mod list between singleplayer to multiplayer. ***Ver
 - Easily select which mod list you would like to move and where.
 - Option to rename a mod list while moving for a clear collection.
 - Open source btw, did I mention its open source? It's open source btw.
-
-
-## Credits
-
-- ### **Program made by [Roadbobek](https://www.github.com/Roadbobek)**
-
-- Credits to [NoctisFalco](https://steamcommunity.com/id/NoctisFalco) for the Mod Manager and Mod Manager: Server mods, and plenty of great others.
-
-- Credits to ChatGPT for umm, "Assistance"...?
-
 
 
 # **Installation**
@@ -44,7 +34,21 @@ This version will work on all operationg systems, Windows, Linux and even macOS.
 **.exe:** The .py file is a Windows executable file (App). To run it simply open it, Nothing else required.  
 This version will only work on Windows, but it is a lot simpler and recomened for Windows users who are not looking to tinker with the program..
 
+## How do I install the file?:    
+**Now head to the Releases section, and install the right file for you, .exe or .py,**
+**just make sure to install the newest version.**
+
 ![Logo](https://i.imgur.com/4nYg3Ky.png)
+## Credits
+
+- ### **Program made by [Roadbobek](https://www.github.com/Roadbobek)**
+
+- Credits to [NoctisFalco](https://steamcommunity.com/id/NoctisFalco) for the Mod Manager and Mod Manager: Server mods, and plenty of great others.
+
+- Credits to ChatGPT for umm, "Assistance"...?
+
+
+
 # Support
 
 For support, message me on discord (**Roadbobek**) or unpreferably you can email me but I dont check very often, (**Roadbobek1234@gmail**).
