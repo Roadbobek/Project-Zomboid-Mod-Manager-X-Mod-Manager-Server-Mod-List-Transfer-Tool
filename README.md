@@ -6,7 +6,6 @@ Allows you to use Mod Manager mod lists in Mod Manager: Server, and Mod Manager:
 A simple tool to transfer a mod list between singleplayer to multiplayer. ***Version 1.2***
 
 ![Logo](https://i.imgur.com/kip7xI1.png)
-
 ## Features
 
 - Automatic file backups made when program is launched.
@@ -45,7 +44,7 @@ This version will work on all operationg systems, Windows, Linux and even macOS.
 **.exe:** The .py file is a Windows executable file (App). To run it simply open it, Nothing else required.  
 This version will only work on Windows, but it is a lot simpler and recomened for Windows users who are not looking to tinker with the program..
 
-    
+![Logo](https://i.imgur.com/4nYg3Ky.png)
 # Support
 
 For support, message me on discord (**Roadbobek**) or unpreferably you can email me but I dont check very often, (**Roadbobek1234@gmail**).
