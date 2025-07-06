@@ -45,8 +45,6 @@ This version will only work on Windows, but it is a lot simpler and recomened fo
 
 - Credits to [NoctisFalco](https://steamcommunity.com/id/NoctisFalco) for the Mod Manager and Mod Manager: Server mods, and plenty of great others.
 
-- Credits to ChatGPT for umm, "Assistance"...?
-
 
 
 # Support
